@@ -38,7 +38,7 @@ image {
 body {
   background: url(./bg.png) no-repeat;
   background-size:cover;
-  fill: #f9f9f9;
+  fill:#f9f9f9;
 }
 
 
