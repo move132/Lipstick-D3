@@ -1,7 +1,7 @@
 # Lipstick-D3
 
 ###口红颜色
-[在线demo][heroku]
+[在线演示demo][heroku]
 
 [heroku]: http://wpy.movecss.com/
 ![Full Page](./docs/1.png)
